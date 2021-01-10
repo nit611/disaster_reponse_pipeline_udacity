@@ -6,12 +6,12 @@ A project with [Udacity](https://www.udacity.com/)'s Data Scientist Nanodegree i
 ## Table of Contents
 1. [Description and Overview](#description)
 2. [Installations](#Installations)
-3. [Data & Files](#data)
-    3.1. [ETL](#ETL)
-    3.2. [ML](#ML)
-    3.3. [Flask App](#Flask)
-4. [Modelling](#Modelling)
-     4.1. [Challenges](#Challenges)
+3. [Data & Files](#data) <br>
+    3.1. [ETL](#ETL) <br>
+    3.2. [ML](#ML) <br> 
+    3.3. [Flask App](#Flask) <br>
+4. [Modelling](#Modelling) <br>
+     4.1. [Challenges](#Challenges) <br>
 5. [Acknowledgements](#Acknowledgements)
 
 <a name = "description"></a>
