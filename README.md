@@ -84,3 +84,9 @@ From the above image, we can understand that:
 
 Some common solutions to this unbalanced classification problem are to resample (get more data for messages for the other categories) or to try and optimize performance using a hybrid classification model, all those out of the scope of this project.
 But to make things interesting for yourself, you can give this research paper a read - [GO!](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.413.3344&rep=rep1&type=pdf)
+
+### Output
+
+Some of the examples of how the model works is below: for the following message you can see in the image.
+![Earthquake](DISASTER_OUTPUT/classification_output/earthquake_1.png)
+![Earthquake](DISASTER_OUTPUT/classification_output/earthquake_2.png)
