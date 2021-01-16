@@ -92,5 +92,10 @@ Some of the examples of how the model works is below: for the following message 
 ![Earthquake](DISASTER_OUTPUT/classification_output/earthquake_2.png)
 This model picked up on the keyword 'Earthquake' in the input message, but missed out on the medicial help requirement. But nevertheless, it picks up the essence of the message, by correctly classifying that its an aid related request, etc. <br>
 
-Here is another example!
+Here is another example! <br>
+
 ![Image3](DISASTER_OUTPUT/classification_output/classification_result_1.png)
+
+Here is another one!! <br>
+
+![Imag](DISASTER_OUTPUT/classification_output/classification_result_2.png)
