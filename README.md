@@ -14,7 +14,8 @@ A project with [Udacity](https://www.udacity.com/)'s Data Scientist Nanodegree i
    3.3. [Flask App](#Flask) <br>
 4. [Modelling](#Modelling) <br>
    4.1. [Results & Challenges](#Challenges) <br>
-5. [Acknowledgements](#Acknowledgements)
+5. [Output](#Output)<br>
+6. [Acknowledgements](#Acknowledgements)
 
 <a name = "description"></a>
 
