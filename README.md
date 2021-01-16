@@ -99,3 +99,8 @@ Here is another example! <br>
 Here is another one!! <br>
 
 ![Imag](DISASTER_OUTPUT/classification_output/classification_result_2.png)
+
+### Acknowledgements
+
+Biggest thanks for Udacity and Figure Eight (Appen) for this awesome mindblowing project, which really makes use of every functioning brain cell to make things interesting and better. Also, the meaningfulness and the impact that project could potentially create is massive.
+The fact that Figure Eight labelled these messages manually in order to facilitate such a project is God-level.
