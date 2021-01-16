@@ -71,3 +71,13 @@ _The F1 Score_ - The model used in this project yielded an **F1-Score (or _F-Mea
 The overall accuracy, calculated by just the average number of times a message was categorized correctly, was 94.72% Why is there a mismatch? And why is the overall accuracy a sub-optimal measure compared to the F1 Score?
 
 ![Categories by Number of Messages](DISASTER_OUTPUT/data_overview/graph_2_categories.png)
+
+From the above image, we can understand that:
+
+- The number of categories by count/percentage are not evenly split, and there is considerable skew.
+- For the categories with lower number of messages, the classification algorithm just doesn't have enough data to train on.
+- The overall accuracy is largely driven by categories with larger number of messages to train on (more the data, better the predictions).
+- The F1-Score, for this reason, calculates accuracy (precision and recall) for all categories individually, and takes a weighted average, thus representing the true accuracy of the model.
+
+Some common solutions to this unbalanced classification problem are to resample (get more data for messages for the other categories) or to try and optimize performance using a hybrid classification model, all those out of the scope of this project.
+But to make things interesting for yourself, you can give this research paper a read - [GO!](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.413.3344&rep=rep1&type=pdf)
