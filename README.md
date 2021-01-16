@@ -2,6 +2,8 @@
 
 A project with [Udacity](https://www.udacity.com/)'s Data Scientist Nanodegree in collaboration with [Figure Eight](https://appen.com/) (Appen), to build an end-to-end Extract-Transform-Load (ETL) pipeline, and a Machine Learning (ML) pipeline for classifying disaster response messages into 36 original categories. A huge shoutout to both Udacity and Figure Eight for making this wonderful and unique project happen!
 
+![Homepage of the web app](DISASTER_OUTPUT/data_overview/homepage.png)
+
 ## Table of Contents
 
 1. [Description and Overview](#description)
@@ -11,7 +13,7 @@ A project with [Udacity](https://www.udacity.com/)'s Data Scientist Nanodegree i
    3.2. [ML](#ML) <br>
    3.3. [Flask App](#Flask) <br>
 4. [Modelling](#Modelling) <br>
-   4.1. [Challenges](#Challenges) <br>
+   4.1. [Results & Challenges](#Challenges) <br>
 5. [Acknowledgements](#Acknowledgements)
 
 <a name = "description"></a>
