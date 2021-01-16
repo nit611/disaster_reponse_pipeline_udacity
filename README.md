@@ -70,4 +70,4 @@ The algorithm's performance is boosted with the `AdaBoostClassifier` and optimiz
 _The F1 Score_ - The model used in this project yielded an **F1-Score (or _F-Measure_) of 0.63**. The F1 Score is a weighted average statistic (or a Harmonic Mean) of the _Precision and Recall_. Simply put, precision is the number of correct classifications of for example, category _Earthquake_, divided by the total number of messages classified as Earthquake, correct or not. Recall, is the number of correct classifications of earthquake, divided by the total messages that belong to earthquake (How many of the messages that were classified Earthquake, we actually Earthquake).
 The overall accuracy, calculated by just the average number of times a message was categorized correctly, was 94.72% Why is there a mismatch? And why is the overall accuracy a sub-optimal measure compared to the F1 Score?
 
-! [Categories by Number of Messages](DISASTER_OUTPUT/graph_2_categories.png)
+![Categories by Number of Messages](DISASTER_OUTPUT/graph_2_categories.png)
